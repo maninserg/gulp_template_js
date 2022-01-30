@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maninserg/gulp_template_js/issues"
   },
-  "homepage": "https://github.com/maninserg/gulp_template_js#readme"
+  "homepage": "https://github.com/maninserg/gulp_template_js#readme",
+  "devDependencies": {
+    "gulp-cli": "^2.3.0"
+  }
 }
